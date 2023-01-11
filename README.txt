@@ -1,8 +1,3 @@
-CSI 2132 SECTION B02 GROUP 43
-Justin Chun 300131838
-Ziyad Gaffar 300148116
-Siana Kong 300110500
-
 For more information on the installment of the app, please regard to report.pdf
 
 Customer app:
